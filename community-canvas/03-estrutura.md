@@ -198,7 +198,7 @@ Para quem está organizando um meetup, os passos são:
 - [ ] Definir **data e hora** (preferência: terça ou quinta, 19h-21h)
 - [ ] Confirmar **local** (empresa, universidade ou auditório)
 - [ ] Garantir **conteúdo** (C4P ou curadoria)
-- [ ] Organizar **coffee break** (patrocínio ou verba de afiliados)
+- [ ] Organizar **coffee break** se possível (patrocínio ou verba de afiliados — opcional)
 - [ ] **Divulgar** (Meetup.com, Slack, redes sociais, universidades, empresas)
 - [ ] **Executar** o evento com entusiasmo, independente do público
 - [ ] **Prestar contas** das verbas utilizadas no dia seguinte

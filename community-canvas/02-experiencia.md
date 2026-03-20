@@ -15,7 +15,7 @@ O formato principal do DevParaná. São encontros presenciais, geralmente com um
 **Formato típico:**
 - Duração: ~2 horas (ex: 19h às 21h)
 - 1-3 talks de 20-40 minutos
-- Coffee break para networking
+- Coffee break para networking (opcional)
 - Local: empresas, universidades ou auditórios
 
 **Frequência:** Mínimo mensal por grupo. Alguns grupos mais ativos fazem quinzenalmente.
@@ -55,7 +55,7 @@ A organização [DeveloperParana no GitHub](https://github.com/DeveloperParana) 
 
 ### Coffee break como ponto de encontro
 
-O coffee não é um detalhe — é parte da experiência. A recomendação oficial é de **3 mini pães de queijo por participante** (ou equivalente) e 300ml de bebida. Parece simples, mas o momento do coffee é onde as conexões reais acontecem.
+O coffee break **não é obrigatório**, mas quando presente, faz diferença. É no intervalo que as conexões reais acontecem. Quando houver, a recomendação é de **3 mini pães de queijo por participante** (ou equivalente) e 300ml de bebida.
 
 **Cuidados com inclusão alimentar:**
 - Atender restrições alimentares dos participantes presentes
