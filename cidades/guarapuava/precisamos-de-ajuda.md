@@ -24,7 +24,7 @@ Estamos sempre buscando empresas e espaços que possam receber nossos meetups. S
 
 ---
 
-## 📣 Divulgação
+## Divulgação
 
 Precisamos de pessoas que ajudem a espalhar a palavra:
 
