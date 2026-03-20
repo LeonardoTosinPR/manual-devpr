@@ -1,4 +1,4 @@
-# 🔵 Estrutura — O que nos dá estabilidade?
+# Estrutura - O que nos dá estabilidade?
 
 A seção de Estrutura trata dos **alicerces operacionais** que permitem à comunidade existir de forma sustentável no longo prazo. Sem estrutura, até a comunidade mais apaixonada se dissolve.
 
@@ -10,7 +10,7 @@ A seção de Estrutura trata dos **alicerces operacionais** que permitem à comu
 
 ### Modelo colaborativo e aberto
 
-O DevParaná adota um modelo de governança onde **as decisões são discutidas em conjunto**, principalmente nos canais do Slack e nos repositórios do GitHub. Não há uma hierarquia rígida — o modelo é mais próximo de uma meritocracia baseada em contribuição.
+O DevParaná adota um modelo de governança onde **as decisões são discutidas em conjunto**, principalmente nos canais do Slack e nos repositórios do GitHub. Não há uma hierarquia rígida - o modelo é mais próximo de uma meritocracia baseada em contribuição.
 
 ### GitHub como plataforma de governança
 
@@ -83,7 +83,7 @@ A comunidade incentiva ativamente que organizadores não trabalhem sozinhos. A f
 
 ### Princípio da comunicação
 
-A informação deve fluir de forma **transparente e acessível**. Decisões não devem acontecer em conversas privadas — se é sobre a comunidade, deve estar em um canal aberto.
+A informação deve fluir de forma **transparente e acessível**. Decisões não devem acontecer em conversas privadas - se é sobre a comunidade, deve estar em um canal aberto.
 
 ### Dica para organizadores
 
@@ -103,11 +103,11 @@ Ao divulgar eventos:
 
 O DevParaná opera **sem fins lucrativos**. Os recursos vêm de:
 
-1. **Open Collective** — Principal canal de doações e transparência financeira, via [opencollective.com/codaqui/projects/devpr](https://opencollective.com/codaqui/projects/devpr). Qualquer pessoa pode contribuir com doações recorrentes ou pontuais, e todo o histórico de receitas e despesas é público.
-2. **Patrocínios de empresas** — principalmente para coffee break e infraestrutura de eventos
-3. **Programa de afiliados** — Verba para alimentação de meetups (quando não há patrocinador)
-4. **Parcerias** — empresas cedem espaço, universidades emprestam auditórios
-5. **Associação Codaqui** — entidade que formaliza parcerias institucionais
+1. **Open Collective** - Principal canal de doações e transparência financeira, via [opencollective.com/codaqui/projects/devpr](https://opencollective.com/codaqui/projects/devpr). Qualquer pessoa pode contribuir com doações recorrentes ou pontuais, e todo o histórico de receitas e despesas é público.
+2. **Patrocínios de empresas** - principalmente para coffee break e infraestrutura de eventos
+3. **Programa de afiliados** - Verba para alimentação de meetups (quando não há patrocinador)
+4. **Parcerias** - empresas cedem espaço, universidades emprestam auditórios
+5. **Associação Codaqui** - entidade que formaliza parcerias institucionais
 
 ### Regras para uso de recursos
 
@@ -133,7 +133,7 @@ Os voluntários ativos recebem acesso a uma lista de parceiros e recursos:
 
 ### Parcerias com empresas
 
-> _"As empresas querem atrair talentos e os eventos são uma forma de mostrar ao público seu espaço e cultura. Você não fica em débito com a empresa — isso não é um favor."_
+> _"As empresas querem atrair talentos e os eventos são uma forma de mostrar ao público seu espaço e cultura. Você não fica em débito com a empresa - isso não é um favor."_
 
 Para gerenciar parcerias de local, mantenha uma lista com:
 - Nome da empresa
@@ -163,19 +163,19 @@ Para gerenciar parcerias de local, mantenha uma lista com:
 
 Toda a operação é documentada em repositórios públicos:
 
-- **[afiliados](https://github.com/DeveloperParana/afiliados)** — Regras do programa, manual do voluntário, guia para criação de meetups
-- **[recursos](https://github.com/DeveloperParana/recursos)** — Ferramentas, design system, guia de contribuição
-- **[devmx](https://github.com/DeveloperParana/devmx)** — Plataforma de member experience
+- **[afiliados](https://github.com/DeveloperParana/afiliados)** - Regras do programa, manual do voluntário, guia para criação de meetups
+- **[recursos](https://github.com/DeveloperParana/recursos)** - Ferramentas, design system, guia de contribuição
+- **[devmx](https://github.com/DeveloperParana/devmx)** - Plataforma de member experience
 
 ### Sustentabilidade organizacional
 
 A sustentabilidade do DevParaná depende de:
 
-1. **Renovação de liderança** — Novos voluntários são constantemente formados
-2. **Descentralização** — Não depender de uma pessoa ou cidade
-3. **Documentação** — Qualquer pessoa consegue entender e replicar o que fazemos
-4. **Baixa barreira de entrada** — Qualquer pessoa pode começar a contribuir
-5. **Automação** — Ferramentas que reduzem trabalho manual (certificados, CI/CD, conventional commits)
+1. **Renovação de liderança** - Novos voluntários são constantemente formados
+2. **Descentralização** - Não depender de uma pessoa ou cidade
+3. **Documentação** - Qualquer pessoa consegue entender e replicar o que fazemos
+4. **Baixa barreira de entrada** - Qualquer pessoa pode começar a contribuir
+5. **Automação** - Ferramentas que reduzem trabalho manual (certificados, CI/CD, conventional commits)
 
 ### Riscos e mitigações
 
@@ -194,7 +194,7 @@ Para quem está organizando um meetup, os passos são:
 - [ ] Definir **data e hora** (preferência: terça ou quinta, 19h-21h)
 - [ ] Confirmar **local** (empresa, universidade ou auditório)
 - [ ] Garantir **conteúdo** (C4P ou curadoria)
-- [ ] Organizar **coffee break** se possível (patrocínio ou verba de afiliados — opcional)
+- [ ] Organizar **coffee break** se possível (patrocínio ou verba de afiliados - opcional)
 - [ ] **Divulgar** (Meetup.com, Slack, redes sociais, universidades, empresas)
 - [ ] **Executar** o evento com entusiasmo, independente do público
 - [ ] **Prestar contas** das verbas utilizadas no dia seguinte

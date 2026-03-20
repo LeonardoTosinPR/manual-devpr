@@ -1,4 +1,4 @@
-# DevParaná — Guarapuava
+# DevParaná - Guarapuava
 
 ## Sobre
 
@@ -33,11 +33,11 @@ Página da comunidade DevParaná na cidade de **Guarapuava, PR**.
 
 ## Documentos
 
-- 🎤 [Como enviar uma palestra](./como-palestrar.md)
-- 🏢 [Receba o DevParaná na sua empresa](./receba-na-sua-empresa.md)
-- 💛 [Como apoiar a comunidade](./como-apoiar.md)
-- 🆘 [No que precisamos de ajuda](./precisamos-de-ajuda.md)
-- 📅 [Encontros de organização](./encontros-organizacao.md)
+- [Como enviar uma palestra](./como-palestrar.md)
+- [Receba o DevParaná na sua empresa](./receba-na-sua-empresa.md)
+- [Como apoiar a comunidade](./como-apoiar.md)
+- [No que precisamos de ajuda](./precisamos-de-ajuda.md)
+- [Encontros de organização](./encontros-organizacao.md)
 
 ## Apoie
 

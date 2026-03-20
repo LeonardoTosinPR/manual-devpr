@@ -1,4 +1,4 @@
-# 🏢 Receba o DevParaná na sua empresa
+# Receba o DevParaná na sua empresa
 
 ## Quer sediar um meetup em Guarapuava?
 
@@ -9,7 +9,7 @@ Não é favor, não gera débito e não é patrocínio obrigatório. É uma troc
 ## Como funciona
 
 1. **Preencha o formulário:**  
-   👉 [https://forms.gle/kygV8SKqLS3ii2pv6](https://forms.gle/kygV8SKqLS3ii2pv6)
+   [https://forms.gle/kygV8SKqLS3ii2pv6](https://forms.gle/kygV8SKqLS3ii2pv6)
 
 2. A organização vai entrar em contato para alinhar detalhes como data, capacidade e logística.
 
@@ -32,9 +32,9 @@ Não é favor, não gera débito e não é patrocínio obrigatório. É uma troc
 ## O que a empresa ganha?
 
 - **Visibilidade** para a comunidade tech de Guarapuava e região
-- **Employer branding** — mostre sua cultura e ambiente de trabalho
-- **Conexão com talentos** — conheça profissionais da área
-- **Networking** — seus colaboradores participam e aprendem junto
+- **Employer branding** - mostre sua cultura e ambiente de trabalho
+- **Conexão com talentos** - conheça profissionais da área
+- **Networking** - seus colaboradores participam e aprendem junto
 - **Divulgação** nas redes sociais e canais do DevParaná
 
 ## Dúvidas frequentes
@@ -56,6 +56,6 @@ Com certeza! Mas a prática do DevParaná é **rotacionar locais** para reforça
 
 ## Importante
 
-> _"As empresas querem atrair talentos e os eventos são uma forma de mostrar ao público seu espaço e cultura. Você não fica em débito com a empresa — isso não é um favor."_
+> _"As empresas querem atrair talentos e os eventos são uma forma de mostrar ao público seu espaço e cultura. Você não fica em débito com a empresa - isso não é um favor."_
 
 A parceria é boa para os dois lados. Vamos construir juntos!

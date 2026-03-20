@@ -1,15 +1,15 @@
-# 🎤 Como enviar uma palestra
+# Como enviar uma palestra
 
 ## Quer palestrar no DevParaná Guarapuava?
 
-Se você tem vontade de compartilhar conhecimento — seja sobre uma tecnologia que domina, um projeto pessoal, uma experiência profissional ou até algo que acabou de aprender — **você é bem-vindo(a)!**
+Se você tem vontade de compartilhar conhecimento - seja sobre uma tecnologia que domina, um projeto pessoal, uma experiência profissional ou até algo que acabou de aprender - **você é bem-vindo(a)!**
 
 Não importa se é sua primeira vez. A comunidade é um espaço seguro para praticar, errar e evoluir. Muitos dos nossos melhores palestrantes começaram aqui.
 
 ## Como funciona
 
 1. **Preencha o Call for Papers:**  
-   👉 [https://forms.gle/yfdG15syLh6cjzCS9](https://forms.gle/yfdG15syLh6cjzCS9)
+   [https://forms.gle/yfdG15syLh6cjzCS9](https://forms.gle/yfdG15syLh6cjzCS9)
 
 2. A organização vai avaliar as propostas e entrar em contato para alinhar data e formato.
 
@@ -30,15 +30,15 @@ Qualquer tema relacionado a tecnologia e desenvolvimento de software. Alguns exe
 
 - **Duração:** de 15 a 40 minutos (você escolhe)
 - **Formato:** presencial, no local do meetup
-- **Slides:** opcionais — o importante é o conteúdo
-- **Nível:** iniciante, intermediário ou avançado — todos são válidos
+- **Slides:** opcionais - o importante é o conteúdo
+- **Nível:** iniciante, intermediário ou avançado - todos são válidos
 
 ## Dicas para quem nunca palestrou
 
 - **Comece pequeno.** Uma lightning talk de 15 minutos é um ótimo começo.
-- **Fale sobre o que você conhece.** Não precisa ser expert — fale da sua experiência real.
+- **Fale sobre o que você conhece.** Não precisa ser expert - fale da sua experiência real.
 - **Pratique antes.** Apresente para um amigo ou grave um vídeo de teste.
-- **A plateia torce por você.** Ninguém está ali para julgar — estão ali para aprender juntos.
+- **A plateia torce por você.** Ninguém está ali para julgar - estão ali para aprender juntos.
 - **Pedir ajuda é ok.** Os organizadores podem te ajudar com revisão de slides e dicas de apresentação.
 
 ## Tem uma ideia mas não tem certeza?

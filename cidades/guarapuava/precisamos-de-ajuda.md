@@ -1,4 +1,4 @@
-# 🆘 No que precisamos de ajuda
+# No que precisamos de ajuda
 
 ## A comunidade precisa de você
 
@@ -6,21 +6,21 @@ O DevParaná Guarapuava é mantido por voluntários. Sempre há algo que pode se
 
 ---
 
-## 🎤 Palestrantes
+## Palestrantes
 
 Precisamos de pessoas dispostas a compartilhar conhecimento. **Qualquer nível, qualquer tema.**
 
-- Nunca palestrou? Melhor ainda — a gente te apoia.
+- Nunca palestrou? Melhor ainda - a gente te apoia.
 - Tem uma ideia mas não sabe se é boa? Manda que a gente ajuda a lapidiar.
-- 👉 [Envie sua proposta](./como-palestrar.md)
+- [Envie sua proposta](./como-palestrar.md)
 
 ---
 
-## 🏢 Locais para eventos
+## Locais para eventos
 
 Estamos sempre buscando empresas e espaços que possam receber nossos meetups. Se você conhece algum lugar ou trabalha em uma empresa que toparia, nos ajude.
 
-- 👉 [Ofereça o espaço da sua empresa](./receba-na-sua-empresa.md)
+- [Ofereça o espaço da sua empresa](./receba-na-sua-empresa.md)
 
 ---
 
@@ -35,7 +35,7 @@ Precisamos de pessoas que ajudem a espalhar a palavra:
 
 ---
 
-## 🙋 Staffing nos eventos
+## Staffing nos eventos
 
 No dia do evento, sempre precisamos de pessoas para:
 
@@ -53,15 +53,15 @@ Se você tem disponibilidade regular (~2h por semana) e quer fazer parte da orga
 
 ---
 
-## 💰 Apoio financeiro
+## Apoio financeiro
 
 Doações de qualquer valor ajudam com coffee break, adesivos e infraestrutura.
 
-- 👉 [Open Collective](https://opencollective.com/codaqui/projects/devpr)
+- [Open Collective](https://opencollective.com/codaqui/projects/devpr)
 
 ---
 
-## 🤝 Parcerias empresariais
+## Parcerias empresariais
 
 Empresas que queiram apoiar com:
 
@@ -76,6 +76,6 @@ Entre em contato com a organização local.
 
 ## Como se voluntariar
 
-Quer ajudar de forma recorrente? O primeiro passo é participar das **reuniões mensais de organização** — veja o documento [Encontros de organização](./encontros-organizacao.md) para detalhes.
+Quer ajudar de forma recorrente? O primeiro passo é participar das **reuniões mensais de organização** - veja o documento [Encontros de organização](./encontros-organizacao.md) para detalhes.
 
 > _"Comunidade é sobre disponibilidade. Não precisa ser muito, não precisa ser sempre. Precisa ser genuíno."_

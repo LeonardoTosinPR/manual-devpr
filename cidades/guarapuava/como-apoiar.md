@@ -1,6 +1,6 @@
-# 💛 Como apoiar a comunidade
+# Como apoiar a comunidade
 
-## A comunidade é feita de pessoas — e toda ajuda importa
+## A comunidade é feita de pessoas - e toda ajuda importa
 
 O DevParaná Guarapuava é **100% voluntário**. Não temos funcionários, não temos escritório, não temos receita fixa. Tudo que fazemos depende de pessoas que dedicam seu tempo e energia porque acreditam no impacto da comunidade.
 
@@ -8,32 +8,32 @@ Existem várias formas de apoiar, e **nem todas envolvem dinheiro**.
 
 ---
 
-## 🙋 Com seu tempo
+## Com seu tempo
 
 A forma mais valiosa de apoio. Você pode:
 
-- **Palestrar** — Compartilhe conhecimento em um meetup → [Como enviar uma palestra](./como-palestrar.md)
-- **Organizar** — Ajude a planejar e executar eventos
-- **Staffing** — Dê suporte no dia: check-in, organização do espaço, palco
-- **Mentoria** — Dedique algumas horas para mentorar alguém da comunidade
-- **Divulgar** — Compartilhe os eventos nas redes sociais e no trabalho
-- **Trazer pessoas** — Convide colegas, amigos e estudantes para os encontros
+- **Palestrar** - Compartilhe conhecimento em um meetup → [Como enviar uma palestra](./como-palestrar.md)
+- **Organizar** - Ajude a planejar e executar eventos
+- **Staffing** - Dê suporte no dia: check-in, organização do espaço, palco
+- **Mentoria** - Dedique algumas horas para mentorar alguém da comunidade
+- **Divulgar** - Compartilhe os eventos nas redes sociais e no trabalho
+- **Trazer pessoas** - Convide colegas, amigos e estudantes para os encontros
 
 ---
 
-## 🏢 Com espaço
+## Com espaço
 
 Sua empresa pode receber um meetup! → [Receba o DevParaná na sua empresa](./receba-na-sua-empresa.md)
 
 ---
 
-## 🍕 Com alimentação
+## Com alimentação
 
 O coffee break não é obrigatório, mas faz diferença. Se sua empresa ou você pessoalmente quer ajudar com o lanche de um meetup, fale com a organização. Qualquer contribuição é bem-vinda.
 
 ---
 
-## 💰 Com doação financeira
+## Com doação financeira
 
 Doações pontuais ou recorrentes ajudam a custear:
 
@@ -43,13 +43,13 @@ Doações pontuais ou recorrentes ajudam a custear:
 - Ferramentas e serviços da comunidade
 
 **Doe pelo Open Collective (transparência total):**  
-👉 [opencollective.com/codaqui/projects/devpr](https://opencollective.com/codaqui/projects/devpr)
+[opencollective.com/codaqui/projects/devpr](https://opencollective.com/codaqui/projects/devpr)
 
 Todo o histórico de receitas e despesas é público.
 
 ---
 
-## 📢 Com divulgação
+## Com divulgação
 
 - Compartilhe os eventos no LinkedIn, Instagram, WhatsApp
 - Peça para a equipe de marketing da sua empresa divulgar internamente
@@ -57,7 +57,7 @@ Todo o histórico de receitas e despesas é público.
 
 ---
 
-## 🤝 Com parcerias
+## Com parcerias
 
 Empresas podem se tornar parceiras oferecendo:
 
@@ -74,4 +74,4 @@ Entre em contato com a organização local para alinhar uma parceria.
 
 > Comunidade é sobre **disponibilidade**. Não precisa ser muito, não precisa ser sempre. Precisa ser genuíno.
 
-Cada pessoa que aparece em um meetup, que compartilha um post, que traz um amigo ou que dedica uma hora do seu sábado para organizar algo — está apoiando a comunidade. **Isso importa.**
+Cada pessoa que aparece em um meetup, que compartilha um post, que traz um amigo ou que dedica uma hora do seu sábado para organizar algo - está apoiando a comunidade. **Isso importa.**

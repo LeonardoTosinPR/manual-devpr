@@ -1,4 +1,4 @@
-# 🟢 Experiência — O que acontece na comunidade?
+# Experiência - O que acontece na comunidade?
 
 A seção de Experiência traduz os valores e o propósito da comunidade em **vivências concretas**. Ela responde: **o que os membros fazem juntos e como isso gera valor?**
 
@@ -42,10 +42,10 @@ Através da plataforma [codaqui.dev/quero/mentoria](https://codaqui.dev/quero/me
 
 A organização [DeveloperParana no GitHub](https://github.com/DeveloperParana) mantém diversos projetos abertos onde qualquer pessoa pode contribuir:
 
-- **[devmx](https://github.com/DeveloperParana/devmx)** — Plataforma de Member Experience
-- **[recursos](https://github.com/DeveloperParana/recursos)** — Ferramentas para eventos (gravador de tela, banco de imagens SVG, apresentações em Markdown)
-- **[afiliados](https://github.com/DeveloperParana/afiliados)** — Documentação do programa de afiliados
-- **[certificados](https://github.com/DeveloperParana/certificados)** — Sistema de certificados de participação
+- **[devmx](https://github.com/DeveloperParana/devmx)** - Plataforma de Member Experience
+- **[recursos](https://github.com/DeveloperParana/recursos)** - Ferramentas para eventos (gravador de tela, banco de imagens SVG, apresentações em Markdown)
+- **[afiliados](https://github.com/DeveloperParana/afiliados)** - Documentação do programa de afiliados
+- **[certificados](https://github.com/DeveloperParana/certificados)** - Sistema de certificados de participação
 
 ---
 
@@ -70,9 +70,9 @@ Qualquer pessoa pode submeter uma palestra. Os grupos podem usar um formulário 
 
 ### Pull Request como forma de contribuição
 
-Quer contribuir com código? Envie um PR. Quer corrigir o manual? Envie um PR. O processo de contribuição via GitHub é intencional — ensina práticas open source enquanto constrói a comunidade.
+Quer contribuir com código? Envie um PR. Quer corrigir o manual? Envie um PR. O processo de contribuição via GitHub é intencional - ensina práticas open source enquanto constrói a comunidade.
 
-Para se tornar um grupo afiliado, o caminho é **entrar em contato com um líder da sua região** — ele vai te orientar sobre o processo.
+Para se tornar um grupo afiliado, o caminho é **entrar em contato com um líder da sua região** - ele vai te orientar sobre o processo.
 
 ### Certificados de participação
 
@@ -92,15 +92,15 @@ A prática de alternar entre empresas, universidades e auditórios é intenciona
 
 ### Palestras técnicas
 
-O coração de todo meetup. Podem ser sobre qualquer tecnologia — o DevParaná é **agnóstico de linguagem/framework**.
+O coração de todo meetup. Podem ser sobre qualquer tecnologia - o DevParaná é **agnóstico de linguagem/framework**.
 
 ### Ferramentas para speakers
 
 O repositório [recursos](https://github.com/DeveloperParana/recursos) oferece:
 
-- 🎥 **Gravador de tela** — Para demonstrações durante apresentações
-- 🎨 **Banco de imagens SVG** — Milhares de imagens livres para uso em slides
-- 📊 **Slides com Markdown** — Prepare apresentações usando apenas Markdown
+- **Gravador de tela** - Para demonstrações durante apresentações
+- **Banco de imagens SVG** - Milhares de imagens livres para uso em slides
+- **Slides com Markdown** - Prepare apresentações usando apenas Markdown
 
 ### Documentação aberta
 
@@ -112,7 +112,7 @@ Toda a documentação da comunidade está em repositórios públicos no GitHub:
 
 ### Projetos de software
 
-Os projetos open source da organização são, eles mesmos, conteúdo educacional — quem contribui aprende sobre monorepos (Nx), TypeScript, Angular, NestJS, conventional commits, CI/CD e mais.
+Os projetos open source da organização são, eles mesmos, conteúdo educacional - quem contribui aprende sobre monorepos (Nx), TypeScript, Angular, NestJS, conventional commits, CI/CD e mais.
 
 ---
 
@@ -183,7 +183,7 @@ Obrigatório para todos os eventos e canais da comunidade. Pontos centrais:
 
 ### 4. Contribuição
 
-- Submete sua primeira palestra (mesmo sem experiência — somos encorajadores)
+- Submete sua primeira palestra (mesmo sem experiência - somos encorajadores)
 - Faz sua primeira contribuição em um projeto open source
 - Ajuda como staffing em um evento
 

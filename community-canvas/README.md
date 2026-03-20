@@ -1,4 +1,4 @@
-# Community Canvas — DevParaná
+# Community Canvas - DevParaná
 
 ## O que é o Community Canvas?
 
@@ -16,7 +16,7 @@ Ao longo dos anos, construímos uma rede com milhares de membros, dezenas de mee
 
 O modelo se divide em **três grandes seções**, cada uma com temas detalhados:
 
-### 🟣 [1. Identidade](./01-identidade.md)
+### [1. Identidade](./01-identidade.md)
 
 > **Quem somos e no que acreditamos?**
 
@@ -28,11 +28,11 @@ Define o propósito, os valores, quem são os membros, como medimos sucesso e co
 - Definição de sucesso
 - Marca e identidade visual
 
-### 🟢 [2. Experiência](./02-experiencia.md)
+### [2. Experiência](./02-experiencia.md)
 
 > **O que acontece na comunidade e como geramos valor?**
 
-Descreve as atividades, rituais, conteúdos, regras e a jornada do membro — tudo aquilo que transforma o senso de pertencimento em vivências concretas.
+Descreve as atividades, rituais, conteúdos, regras e a jornada do membro - tudo aquilo que transforma o senso de pertencimento em vivências concretas.
 
 - Atividades e eventos
 - Rituais e tradições
@@ -40,11 +40,11 @@ Descreve as atividades, rituais, conteúdos, regras e a jornada do membro — tu
 - Regras e papéis
 - Jornada do membro
 
-### 🔵 [3. Estrutura](./03-estrutura.md)
+### [3. Estrutura](./03-estrutura.md)
 
 > **O que nos dá estabilidade no longo prazo?**
 
-Trata de governança, liderança, comunicação, recursos e sustentabilidade — os alicerces operacionais que mantêm a comunidade viva.
+Trata de governança, liderança, comunicação, recursos e sustentabilidade - os alicerces operacionais que mantêm a comunidade viva.
 
 - Governança
 - Liderança
@@ -67,7 +67,7 @@ Trata de governança, liderança, comunicação, recursos e sustentabilidade —
 
 ```
 community-canvas/
-├── README.md                  # Este arquivo — visão geral
+├── README.md                  # Este arquivo - visão geral
 ├── 01-identidade.md           # Seção 1: Identidade
 ├── 02-experiencia.md          # Seção 2: Experiência
 ├── 03-estrutura.md            # Seção 3: Estrutura
@@ -77,4 +77,4 @@ community-canvas/
 
 Este é um documento vivo. Se você não encontrou o que procurava ou discorda de algo, **edite e envie um pull request**. Essa é a cultura do DevParaná: quem identifica uma lacuna, é responsável por preenchê-la.
 
-> _"Se você não encontrou o que procura nesse manual, é sua responsabilidade editar com a resposta que você procurava, assim estará ajudando a próxima pessoa."_ — Manual do Voluntário DevParaná
+> _"Se você não encontrou o que procura nesse manual, é sua responsabilidade editar com a resposta que você procurava, assim estará ajudando a próxima pessoa."_ - Manual do Voluntário DevParaná

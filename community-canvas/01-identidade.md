@@ -1,6 +1,6 @@
-# 🟣 Identidade — Quem somos e no que acreditamos?
+# Identidade - Quem somos e no que acreditamos?
 
-A seção de Identidade é o coração do Community Canvas. Ela responde à pergunta fundamental: **por que existimos?** Define o DNA da comunidade — seu propósito, seus valores, quem faz parte dela e como ela se apresenta ao mundo.
+A seção de Identidade é o coração do Community Canvas. Ela responde à pergunta fundamental: **por que existimos?** Define o DNA da comunidade - seu propósito, seus valores, quem faz parte dela e como ela se apresenta ao mundo.
 
 ---
 
@@ -31,7 +31,7 @@ Isso significa que não somos uma empresa, não temos fins lucrativos e toda a n
 
 ### Quem são nossos membros
 
-- **Desenvolvedores(as) de software** de todos os níveis — de iniciantes a seniores
+- **Desenvolvedores(as) de software** de todos os níveis - de iniciantes a seniores
 - **Estudantes** de cursos de tecnologia da informação
 - **Profissionais** que já atuam no mercado e querem compartilhar ou aprender
 - **Pessoas curiosas** que querem entrar na área de tecnologia
@@ -80,7 +80,7 @@ Não queremos ser uma comunidade centralizada em uma cidade ou em um grupo de pe
 
 ### Empoderamento de novas vozes
 
-Uma das formas mais valorizadas de contribuição é **incentivar que novas pessoas iniciem suas vidas como palestrantes**. A curadoria de talks não busca apenas speakers conhecidos — ela quer criar um ciclo que retroalimenta a comunidade.
+Uma das formas mais valorizadas de contribuição é **incentivar que novas pessoas iniciem suas vidas como palestrantes**. A curadoria de talks não busca apenas speakers conhecidos - ela quer criar um ciclo que retroalimenta a comunidade.
 
 ### Transparência e prestação de contas
 
