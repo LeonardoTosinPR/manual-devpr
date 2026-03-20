@@ -6,9 +6,9 @@ Página da comunidade DevParaná na cidade de **Guarapuava, PR**.
 
 ## Líderes locais
 
-| Nome | Contato (Slack) |
+| Nome | LinkedIn |
 |---|---|
-| <!-- Adicionar nome --> | <!-- @usuario --> |
+| <!-- Adicionar nome --> | <!-- linkedin.com/in/usuario --> |
 
 ## Meetups
 
@@ -17,6 +17,7 @@ Página da comunidade DevParaná na cidade de **Guarapuava, PR**.
 - **Frequência:** <!-- Mensal / Quinzenal -->
 - **Dia e horário:** <!-- Ex: Terça-feira, 19h às 21h -->
 - **Duração média:** ~2 horas
+- **Eventos:** [Meetup.com do DevParaná](https://www.meetup.com/pt-BR/developerparana/)
 
 ### Locais parceiros
 
@@ -24,21 +25,19 @@ Página da comunidade DevParaná na cidade de **Guarapuava, PR**.
 |---|---|---|---|
 | <!-- Nome --> | <!-- Empresa / Universidade / Auditório --> | <!-- Nº pessoas --> | <!-- Nome da pessoa --> |
 
-## Histórico de eventos
-
-| Data | Tema / Título | Palestrante(s) | Participantes |
-|---|---|---|---|
-| <!-- DD/MM/AAAA --> | <!-- Título --> | <!-- Nome --> | <!-- Nº --> |
-
 ## Como participar
 
-1. Entre no [Slack do DevParaná](https://slack.devparana.org/) e procure o canal da cidade
-2. Acompanhe os eventos no [Meetup.com](https://www.meetup.com/pt-BR/developerparana/)
-3. Siga o [@devparana](https://www.instagram.com/devparana/) no Instagram
+1. Acompanhe os eventos no [Meetup.com](https://www.meetup.com/pt-BR/developerparana/)
+2. Siga o [@devparana](https://www.instagram.com/devparana/) no Instagram
+3. Participe das [reuniões de organização](./encontros-organizacao.md)
 
-## Como organizar um meetup em Guarapuava
+## Documentos
 
-Quer organizar eventos na cidade? Consulte o [Community Canvas](../community-canvas/README.md) e entre em contato com um líder da região. Os requisitos e dicas estão no [guia de experiência](../community-canvas/02-experiencia.md).
+- 🎤 [Como enviar uma palestra](./como-palestrar.md)
+- 🏢 [Receba o DevParaná na sua empresa](./receba-na-sua-empresa.md)
+- 💛 [Como apoiar a comunidade](./como-apoiar.md)
+- 🆘 [No que precisamos de ajuda](./precisamos-de-ajuda.md)
+- 📅 [Encontros de organização](./encontros-organizacao.md)
 
 ## Apoie
 
